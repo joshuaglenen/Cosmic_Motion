@@ -15,7 +15,7 @@ PCB 3D Rendering 10/01/2025
 PCB 3D Rendering Back 10/01/2025
 
 
-<img width="4960" height="3507" alt="Untitled" src="https://github.com/user-attachments/assets/d9e84baf-df5c-49b7-8494-da04b083b927" />
+<img width="4960" height="3507" alt="cosmic3" src="https://github.com/user-attachments/assets/e10eb16a-e4b1-4e30-81c8-82bd23d22187" />
 
 
-Circuit Schematic 9/29/2025
+Circuit Schematic 10/1/2025
