@@ -24,4 +24,4 @@ PCB 3D Rendering Back 10/01/2025
 ![IMG_1347](https://github.com/user-attachments/assets/73d9014c-f549-4220-8676-3a21c9216843)
 
 
-Handmade devboard 10/17/2025
+Handmade 48x42mm devboard 10/17/2025
