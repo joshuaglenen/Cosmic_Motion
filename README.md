@@ -25,3 +25,9 @@ PCB 3D Rendering Back 10/01/2025
 
 
 Circuit Schematic 10/1/2025
+
+
+![IMG_1347](https://github.com/user-attachments/assets/49ff11c7-97f6-42a6-89e0-b3e8bcb432c1)
+
+
+Handmade devboard 10/17/2025
